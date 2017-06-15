@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Who even are you
 
-### More Information
+I am a PhD candidate at the University of Western Australia in Perth, Western Australia. My PhD project is about the microbiome of the upper respiratory tract in children with recurrent acute otitis media (recurrent ear infections), so naturally I am interested in bacteria, genomics and bioinformatics. Having spent lots of time self-teaching and learning by reading/doing (as most people need to do) I thought I'd have a crack at writing blog posts about things I've learnt, and other things I feel like writing about.
 
-A place to include any other types of information that you'd like to include about yourself.
+I thought I was really clever when I came up with [The Ordeal of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) for a PhD/research blog title. Sorry.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rachael.lappan@gmail.com](mailto:rachael.lappan@gmail.com)
