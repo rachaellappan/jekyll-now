@@ -3,4 +3,5 @@ layout: post
 title: Splog post
 ---
 
-Maybe I know what I'm doing
+Created super easily by following: 
+https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
