@@ -10,6 +10,9 @@ I am a PhD candidate at the University of Western Australia in Perth, Western Au
 
 I thought I was really clever when I came up with [The Ordeal of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) for a PhD/research blog title. Sorry.
 
+This blog was set up super easily by following [this guide](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).
+
+
 ### Contact me
 
 [rachael.lappan@gmail.com](mailto:rachael.lappan@gmail.com)
