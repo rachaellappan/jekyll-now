@@ -6,4 +6,4 @@
 
 [Find me on Twitter](https://twitter.com/RachaelLappan)
 
-[Email me](rachael.lappan@gmail.com)
+[Email me](mailto:rachael.lappan@gmail.com)
