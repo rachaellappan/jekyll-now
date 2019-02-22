@@ -49,16 +49,14 @@ I cannot match the writing advice of countless books and blogs, so here's my bit
 
 Also, keep in mind that you not only need to write your thesis, but to format it too. Don't overlook the formatting; it can take much longer than you think. If you're formatting in Word, prepare for it to refuse to save your document, destroy your computer, and shift all of your figures into the void behind the page each time you correct a typo. If you are using something better suited to theses like LaTex or Bookdown (highly recommend if you're willing to learn), start formatting some completed chapters early if you can; LaTex in particular can be a steep learning curve and you will need to spend a decent amount of time troubleshooting errors and improving appearances on the page. Getting this done earlier in the year will greatly relieve your stress when writing the final discussion.
 
-\
-\
-\
+&nbsp;
+&nbsp;
 
 **So. To all of you who are in the final year of your PhD, or have a final year coming up: you are always moving forwards, even if it doesn't feel like it. You will soon leave the PhD-phase of your life. The bad days will happen, and they will pass. Just move on to the next task. Continue moving on until the task is 'submit'.**
 
 I hope this was a helpful, comforting or relatable read. **Keep in mind that all of the advice you receive this year is just advice - only you know what is best for you.** Feel free to leave a comment below, find me on [Twitter](https://twitter.com/RachaelLappan), or [email me](mailto:rachael.lappan@gmail.com). Thanks for reading - and you will survive!
 
-\
-\
-\
+&nbsp;
+&nbsp;
 
 <a id="note1" href="#note1ref"><sup>1</sup></a> In a good way! I can deal with stress, deadlines and pressure with greater ease now that I have done a PhD. It helps knowing that I've made it through something tough before. It probably also helps to not be in the midst of a PhD anymore, but the point is; **I can have faith in my abilities if I just remember that I made it through a PhD.** No matter where your career goes after this, that is something to always remain proud of.
