@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Who even are you
 
-I am currently a PhD candidate at the University of Western Australia in Perth, Western Australia. My PhD project is about the microbiome of the upper respiratory tract in children with recurrent acute otitis media (recurrent ear infections), so I work with bacteria, genomics and bioinformatics. Constantly learning, this blog helps me remember the cool things I've worked out.
+I am currently a (submitted and under examination) PhD candidate at the University of Western Australia in Perth, Western Australia. My PhD project was about the microbiome of the upper respiratory tract in children with recurrent acute otitis media (recurrent ear infections), so I work with bacteria, genomics and bioinformatics. Constantly learning, this blog helps me remember the cool things I've worked out or advice that I've given myself or other people.
 
 You can find detailed documentation for all of my analyses at the following links:
 

@@ -1,0 +1,64 @@
+---
+layout: post
+title: Surviving the final year
+---
+
+I recently survived the final year of a PhD. Yes, it can be done. Look! I'm actually handing it in and moving on with my life! (Sort of).
+
+<center>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">After 8 years as a student at <a href="https://twitter.com/uwanews?ref_src=twsrc%5Etfw">@uwanews</a>, 5 years of which were spent at <a href="https://twitter.com/telethonkids?ref_src=twsrc%5Etfw">@telethonkids</a>, I am finally entering the real world and am now just... unemployed 😅Thanks to everyone whose support got me here. <a href="https://twitter.com/hashtag/PhD?src=hash&amp;ref_src=twsrc%5Etfw">#PhD</a> <a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a> <a href="https://twitter.com/hashtag/phdone?src=hash&amp;ref_src=twsrc%5Etfw">#phdone</a> <a href="https://twitter.com/hashtag/phdohgodwhatnow?src=hash&amp;ref_src=twsrc%5Etfw">#phdohgodwhatnow</a> <a href="https://t.co/mztxbgCOOk">pic.twitter.com/mztxbgCOOk</a></p>&mdash; Rachael Lappan (@RachaelLappan) <a href="https://twitter.com/RachaelLappan/status/1075254268469248001?ref_src=twsrc%5Etfw">December 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+Each individual's PhD experience is very unique, but I expect most people will experience stress, burnout, misery, guilt, despair, impostor syndrome or a mid-PhD crisis at some point along the way. Spatterings of these things probably serve to build character, but they're a real problem when they impede your progress and drain your overall life happiness. The final year in particular, where everything suddenly becomes real and urgent, is generally going to suck for a while. Now, no advice you will receive is going to be a replacement for counselling (which is absolutely worth trying even if you consider yourself mentally healthy). But here's some perspectives, in no particular order, from someone who made it out alive (but not unchanged).<a href="#note1" id="note1ref"><sup>1</sup></a>
+
+* [Managing time and commitments](#time)
+* [Dealing with being overwhelmed](#overwhelm)
+* [Life stuff (that non-PhD stuff that wasn't supposed to disappear)](#life)
+* [Getting the thing done](#getdone)
+
+### Managing time and commitments<a name="time"></a>
+
+At the start of your PhD, it may have been easier to plan your time. With 3-4 years ahead of you, there was plenty of room to be generous in estimating how long things might take. It was forseeable that you may not get all the results you hoped for, the research direction may change, or that you might run into a bunch of technical challenges. **This is scientific research.** However, now you're in the final year everything needs to be wrapped up and finished. Going weeks or months over schedule because of other commitments, experiment failures or new avenues of research now means that you're going to have to either live without money or spend most of your time on a paid job to survive. Delaying your submission makes it harder to finish, especially if the rest of your life moves on. So this is the year to be strict with your time.
+
+**Say no to more things.** Be very critical of what you spend your time on. You are allowed to say no to things that take up chunks of your time but do not help you finish your thesis. People will understand, especially if they have a PhD. I tried to focus on things that either substantially added to my CV, or paid me some money. The rest of my time was mostly thesis, sleeping, eating and *not abandoning my hobbies*. Even then, remember that 'finishing' your thesis doesn't mean 'completing all the things' - plan out what you need to achieve in order to have a good, examinable thesis. You may need to let go of other experiments/analyses if you simply do not have the time. This ensures you don't end up doing an endless PhD, but can also be somewhat liberating; it's nice to say "I simply haven't got enough time left" and not have to worry about months of optimising, failure, or gaining a deep understanding of the method only to find out it doesn't help you answer your question anyway.
+
+**Don't worry about hours.** Your time is up to you, especially once you're in the writing up phase. I mean, don't sleep through meetings with your supervisors, but in general, I found it beneficial to try and let go of the idea that I *had* to be in at 9am each day. You have a finite number of hours between now and when you submit, so it makes sense to use them whenever you will be most productive. If you need more sleep, get more sleep. If today's a bad day and you only get a couple of hours work done, that's okay. Nobody's counting (and if they are, they shouldn't be - like I say, we're aiming for efficiency this year, not total time spent in agony). Weekends and evenings are probably going to be necessary, but I tried to leave easier work (like formatting) for these times when I knew my brain wouldn't be very happy to be working.
+
+### Dealing with being overwhelmed<a name="overwhelm"></a>
+
+At some point this year you may feel overwhelmed. Sometimes you will be so overwhelmingly overwhelmed that you find yourself unable to work. I found that this usually happened when I was hit by the sheer amount of work I had left to do (unquantifiable) and the short amount of time in which I had left to do it (quantifiable). I think this is where the panic comes from; the uncertainty of exactly how much time you *do* need, and the certainty of how much time you've got left. Something that helped me overcome this was to remember that **at no point do you have do all of this work at once.** The entire PhD is completed one small task at a time, no matter how good you are.
+
+I would write lists or plan things out on paper when I became overwhelmed. This is where fountain pens and nice quality paper can change your life (that's what I reckon anyway). Keep planning and replanning. This can keep you clear on what your goals are for each day. Make the tasks small (subsections or paragraphs for example); the smaller they are the more you get to tick off in a day, and the more productive you will feel. What is the most urgent task? What is the first step? Go from there. Sometimes taking a few minutes to clear your head (with a free 5-minute guided meditation for example, like in the [Headspace](https://www.headspace.com/) app) can help you refocus and get cracking on something. You don't need to plan out your whole week, or even your whole day - just what comes next. While you are writing up, you may also be needing to write some job applications. It is hard to do both at once when you are so stressed, but that's okay - just slot it into your plan. Work on an application when you get sick of your thesis.
+
+Also, in general - don't compare yourself to others. It's not a reliable measurement as there's too many variables that differ and you're each a sample size of 1. You really are your own worst critic. Be nice to yourself - remember, the poor thing is trying to finish a PhD.
+
+### Life stuff (that non-PhD stuff that wasn't supposed to disappear)<a name="life"></a>
+
+Don't forget about your family, friends, partner, children or fluffer. They love you. In the final year when you are probably at your busiest, it's important to remember to make time for them. But you're so busy, I know. However, remember that **periods of rest are as essential as periods of work for long-term functioning.** That's how [hearts work](https://en.wikipedia.org/wiki/Diastole), and look at their productivity. Make the commitment to a dinner, some games, an outing, a short holiday - it doesn't have to be much, but a bit of time without the PhD on your mind can be a great relief. It is challenging to combat the guilt, but I often reminded myself that I will be more efficient tomorrow if I conk out at 1pm, have a break, and come back fresh than if I push through into the evening when I'm just not feeling it. **Always prioritise sleep.**
+
+The other important part of your life is food. Try to continue to eat well; if you eat poorly, you'll feel worse in general (though I absolutely understand that a whole bag of chips can get you through a chapter). It *really* helps to have someone at home who can cook all your dinners for you (thanks Scott). If you don't, look into those budget one pot meals and a slow cooker and cook up as many servings at once as you can (e.g. [Budget Bytes](https://www.budgetbytes.com/)). This is especially useful when your scholarship funds have run out. Just don't fill yourself with 2 minute noodles - you may never shit again. At least have some Metamucil with them.
+
+### Getting the thing done<a name="getdone"></a>
+
+I like producing good pieces of writing, and I'm reasonably good at it. The trouble with producing good writing is the part where you actually have to *write* the thing. You may experience a strong desire for your vague mental image of a chapter to just *happen* (you promise not to tell anyone if the universe just messed up and it appeared). How easy it must be for everyone else to say "you're nearly there!" and then sit back for a couple of months until your complete thesis emerges into existence. 
+
+I cannot match the writing advice of countless books and blogs, so here's my bit. **Just put something.** Just spill your thoughts onto the page in some way. Then have a look at it another day, and fix it a bit. Then you can fix it some more, and maybe someone else will help you fix it. Then it will look much better. Having access to a whiteboard is useful for organising thoughts. Read it out loud to yourself and see if anything sounds dopey. Writing can be hard and it can suck, but each day you write *something*, even if it later gets deleted, is progress. Know that **you are always moving forwards and never backwards.** Additionally, it doesn't have to be perfect, or even really great. If it's not good *enough*, your supervisors and/or your examiners will let you know. Once your PhD is complete, you will not be reading it several times in the years to come thinking "that paragraph's a bit crap and could have been better." I mean you might, but you a) should probably never look at it again for your own sanity and b) won't care, because you've got the PhD anyway. 
+
+**Remember, that's the *ultimate* goal here: get a PhD.**
+
+Also, keep in mind that you not only need to write your thesis, but to format it too. Don't overlook the formatting; it can take much longer than you think. If you're formatting in Word, prepare for it to refuse to save your document, destroy your computer, and shift all of your figures into the void behind the page each time you correct a typo. If you are using something better suited to theses like LaTex or Bookdown (highly recommend if you're willing to learn), start formatting some completed chapters early if you can; LaTex in particular can be a steep learning curve and you will need to spend a decent amount of time troubleshooting errors and improving appearances on the page. Getting this done earlier in the year will greatly relieve your stress when writing the final discussion.
+
+\
+\
+\
+
+**So. To all of you who are in the final year of your PhD, or have a final year coming up: you are always moving forwards, even if it doesn't feel like it. You will soon leave the PhD-phase of your life. The bad days will happen, and they will pass. Just move on to the next task. Continue moving on until the task is 'submit'.**
+
+I hope this was a helpful, comforting or relatable read. **Keep in mind that all of the advice you receive this year is just advice - only you know what is best for you.** Feel free to leave a comment below, find me on [Twitter](https://twitter.com/RachaelLappan), or [email me](mailto:rachael.lappan@gmail.com). Thanks for reading - and you will survive!
+
+\
+\
+\
+
+<a id="note1" href="#note1ref"><sup>1</sup></a> In a good way! I can deal with stress, deadlines and pressure with greater ease now that I have done a PhD. It helps knowing that I've made it through something tough before. It probably also helps to not be in the midst of a PhD anymore, but the point is; **I can have faith in my abilities if I just remember that I made it through a PhD.** No matter where your career goes after this, that is something to always remain proud of.
